@@ -1,3 +1,5 @@
+## Author
+Preethika Munaganti
 # Smart Water Quality Monitoring System
 
 ## Overview
