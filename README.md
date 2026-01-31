@@ -1,5 +1,3 @@
-## Author
-Preethika Munaganti
 # Smart Water Quality Monitoring System
 
 ## Overview
@@ -45,3 +43,6 @@ purity check.
 - **Multi-Parameter Expansion:** Incorporate additional sensors to monitor parameters such as conductivity, ammonia, and nitrate levels.
 - **Scalable Architecture:** Enable deployment across multiple monitoring points such as reservoirs, pipelines, and treatment facilities.
 - **Integration with Smart City Infrastructure:** Allow the system to contribute to centralized environmental monitoring networks.
+
+## Author
+Preethika Munaganti
