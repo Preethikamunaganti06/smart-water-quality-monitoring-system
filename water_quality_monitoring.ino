@@ -9,14 +9,6 @@ float voltage, turbidity;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 void setup() {
 Serial.begin(9600);
-Sensor reads
-turbidity
-Arduino
-converts
-Displayed on
-LCD
-Buzzer&LED
-
 pinMode(buzzerPin, OUTPUT);
 pinMode(ledPin, OUTPUT);
 // Initialize LCD
@@ -67,4 +59,5 @@ digitalWrite(buzzerPin, LOW);
 digitalWrite(ledPin, LOW);
 }
 delay(1000); // Update every second
+
 }
